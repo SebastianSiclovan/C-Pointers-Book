@@ -1,0 +1,5 @@
+1. Prin instrumente de analiza a memoriei, tools precum Valgrind, AddressSanitizer
+2. utilizarea unor functii speciale pentru a urmarii alocatiile si dealocatiile.
+3. Verificarea manuala dupa fiecare alocare:
+-Dupa fiecare apel malloc / calloc se verifica daca a reusit alocarea. Dupa fiecare apel free se verifica daca pointerul nu a devenit invalid si a
+fost eliberat corect.

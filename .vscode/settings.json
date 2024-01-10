@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "random": "c",
+        "array": "c",
+        "deque": "c",
+        "string": "c",
+        "vector": "c",
+        "iterator": "c",
+        "string.h": "c"
+    }
+}
